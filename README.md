@@ -9,7 +9,8 @@ Heavily based on [datguypiko's Firefox-Mod](https://github.com/datguypiko/Firefo
 There's two options available for AutoHiding NavBar:    
 (1) Show NavBar on hover, use userChrome.css  
 (2) Show NavBar on pressing hotkey (Ctrl + L / Alt + D), use userChrome-hotkey.css [Recommended Option]
-
+ <br></br>
+ 
 **Blurred URL Bar**
 
 ![alt text](https://i.imgur.com/kYf5wYt.png)
