@@ -485,7 +485,7 @@ visibility: collapse !important;
 }
 
 /*AutoHide Navbar*/
-#main-window:not([customizing]) #navigator-toolbox:not(:focus-within):not(:hover) { 
+#main-window:not([customizing]) #navigator-toolbox:not(:focus-within) { /*:not(:hover)*/
   margin-top: -36px;
 }
 #navigator-toolbox {
